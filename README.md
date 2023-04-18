@@ -1,6 +1,5 @@
 # Frontend Developer
-
-![github](https://user-images.githubusercontent.com/110480389/232619610-8fd056d1-89bd-44a6-af6b-96074f605e8f.png)
+![github](https://user-images.githubusercontent.com/110480389/232856234-e1bce120-1e2d-415c-b5f9-ba6a9779c24e.png)
 
 
 ## 🚀 About Me
