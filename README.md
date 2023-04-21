@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-It is a fact that the first impression of anything is very important, if we talk about web pages that fact becomes even more important. That's why I'm a FrontEnd Developer. Let me help you get the page of your dreams.
+It is a fact that first impressions and appearance of anything are everything. The way you present yourself to a group of people, the first trailer for a movie or the cover of a book. That is why I am in charge of giving colors to the web pages.
 
 
 ## 🔗 Links
