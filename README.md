@@ -1,6 +1,6 @@
 # Hiii
-(![Fondo Github](https://github.com/user-attachments/assets/aa83ebab-4734-4aff-82cd-67e9b919677f)
-)
+![Fondo Github](https://github.com/user-attachments/assets/aa83ebab-4734-4aff-82cd-67e9b919677f)
+
 
 
 ## 🚀 About Me
